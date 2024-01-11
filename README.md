@@ -1,5 +1,5 @@
 ### Overview
-This project comprises two distinct experiments that investigate the effects of label saliency (anti-saliency effect) in consumer decision-making. One experiment focuses on nutritional labels, while the other examines sustainability labels. Our aim is to explore how increased label visibility influences consumer behavior in different contexts.
+This project comprises two distinct eye-tracking experiments that investigate the effects of label saliency (anti-saliency effect) in consumer decision-making. One experiment focuses on nutritional labels, while the other examines sustainability labels. Our aim is to explore how increased label visibility influences consumer behavior in different contexts.
 
 ### Description
 The repository contains datasets, code, and analytical tools used to conduct and analyze two separate studies. Each study explores the impact of label salience on consumer engagement, one in the context of nutritional information and the other in the realm of sustainability.
